@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "module": "ES2022", 
+    "module": "es2022", 
     "moduleResolution": "node",
     "module": "commonjs",
     "rootDir": "./src",
@@ -8,6 +8,7 @@
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true
+    "forceConsistentCasingInFileNames": true ,
+    "removeComments": true
   }
 }
